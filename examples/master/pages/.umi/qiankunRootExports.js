@@ -1,1 +1,0 @@
-window.g_rootExports = require('@/rootExports');

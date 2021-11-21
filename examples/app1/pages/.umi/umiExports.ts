@@ -1,1 +1,0 @@
-export { useRootExports } from '@tmp/qiankunContext';
